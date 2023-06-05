@@ -21,7 +21,7 @@ O Labook é uma rede social com o objetivo de promover a conexão e interação 
 
 
 # Lista de requisitos
-![Documentação Labook](https://documenter.getpostman.com/view/24823163/2s93sXcEw9)
+[Documentação Labook](https://documenter.getpostman.com/view/24823163/2s93sXcEw9)
 
 - Endpoints
     - [x]  signup
